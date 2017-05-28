@@ -1,0 +1,15 @@
+<html>
+<head>
+<title>Transportation Method Idea Generation</title>
+</head>
+<body>
+<h1> Hello, World!</h1>
+<?php
+if(rand(0,1)){
+  echo '<a href="https:/\/docs.google.com/forms/d/e/1FAIpQLSfWXuExlBXDNLTzkmX5kjnbrfwUJflMnMKv8sZelhBnjhuMMw/viewform">Transportation Method Idea Generation Form</a>';
+}else{
+  echo '<a href="https:/\/docs.google.com/forms/d/e/1FAIpQLSdfu0Mi1le89OMlgBI4XzN1_l17Tj4BpA4oTKWMiSa7d3tiGA/viewform">Transportation Method Idea Generation Form</a>';
+
+}
+
+?>
